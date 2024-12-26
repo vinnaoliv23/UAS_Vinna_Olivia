@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "676ca8e62c486558f3897b23"
+  },
+  "Id Aset": "20241226",
+  "Nama Aset": "Porsche Cayenne",
+  "Jenis Aset": "Kendaraan",
+  "Nilai Aset": "4.250.000.000",
+  "Tanggal Perolehan": "26 Desember 2024",
+  "Kondisi Aset": "Baru",
+  "Lokasi Aset": "Palmerah, Jakarta Barat"
+}]
